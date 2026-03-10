@@ -84,7 +84,7 @@ Defense in Depth: Even though the attacker was persistent with IP rotation, the 
 
 Visibility is Victory: Knowing how to filter by datetime and IP range allows a hunter to see the "story" behind the logs rather than just raw data.
 
-## 🕵️ Your Next Move: The "Account Target" Query
+## 🕵️ Next Move: The "Account Target" Query
 Once you know they are knocking on the door, you need to see if they’ve started trying to turn the handle on specific user accounts. After a "bouncing" pattern, your next go-to should be checking Sign-in Logs for failed authentication attempts from those same IPs.
 
 Try this query next:
